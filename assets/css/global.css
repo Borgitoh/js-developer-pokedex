@@ -13,6 +13,18 @@ body {
     padding: 1rem;
     background-color: #fff;
 }
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,0.1);
+}
+.botao :hover{
+    background-color: rgba(255,255,255,0.1) !important;
+}
+.btn-primary{
+    background-color: rgba(255,255,255,0.1) !important;
+}
 .imgcontent{
 margin:0px auto;
 }

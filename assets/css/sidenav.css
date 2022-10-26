@@ -8,6 +8,7 @@
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+   
   }
   .sidenav.active{
     width: 50%;
@@ -33,7 +34,11 @@
     font-size: 36px;
     margin-left: 50px;
     border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: none;
   }
+ 
   @media only screen and (max-width: 600px) {
     .sidenav.active{
         width: 100%;
