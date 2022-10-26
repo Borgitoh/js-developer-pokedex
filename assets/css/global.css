@@ -13,6 +13,19 @@ body {
     padding: 1rem;
     background-color: #fff;
 }
+.imgcontent{
+margin:0px auto;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
 
 @media screen and (min-width: 992px) {
     .content {
